@@ -1,4 +1,4 @@
 # HTML-project
 Bookflix and Chill
-Ky projekt konsiston ne ndertimin e nje faqe online ne te cilen mund te shikosh libra dhe te jep mundesine qe ti blesh ato.
-Jane perdorur javascript dhe css per ta bere faqen me te bukur me ane te animacioneve, llojit te shkrimit, ngjyrave te ndryshme etj.
+This project consists of an online site where you can view diffrent books with their price and gives you the opportunity to sign in, read reviews of
+other clients, buy them etc. Javascript and css are used to make the page more beautiful through animations, font type, different colors, etc.
